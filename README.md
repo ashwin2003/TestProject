@@ -3,6 +3,8 @@
 
 This React Native project has been created for an interview process. It showcases a basic setup of a React Native application and provides instructions on how to run and modify the app.
 
+Here is the demo of the project recorded in a video https://drive.google.com/file/d/1KwWnCp6q6gxlBu_8slYPJd4AbuXHj3jr/view?usp=sharing
+
 ## Login Credentials
 
 - Username: username
